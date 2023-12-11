@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerison[Dev]!</h1>
 <h3 align="center">Problem-solving Fullstack Developer from Boston</h3>
 
-- 🔭 I’m currently working on **a weather app**
+- 🔭 I’m currently working on **a company website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
